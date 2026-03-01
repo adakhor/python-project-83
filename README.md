@@ -4,7 +4,7 @@
 [![lint_check](https://github.com/kamusia/python-project-83/actions/workflows/my_workflow.yml/badge.svg)](https://github.com/kamusia/python-project-83/actions/workflows/my_workflow.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=kamusia_python-project-83&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=kamusia_python-project-83)
 
-[My page analyzer](https://python-project-83-swyv.onrender.com)
+[My page analyzer](https://python-project-83-sqza.onrender.com)
 
 
 ### Description
